@@ -1,0 +1,10 @@
+.shop-container{
+    width: 90%;
+    margin:auto;
+    display: flex;
+}
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 75%;
+}
